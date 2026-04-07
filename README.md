@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="C:\Users\dilsh\OneDrive\Pictures\git.jpeg"  width="200" height="200" style="border-radius: 50%;"/>
-</p>
+
 
 <h1 align="center">💫 Hi, I'm Kavishka Dilshan</h1>
 <h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Tech Explorer</h3>
